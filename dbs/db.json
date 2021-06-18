@@ -1,0 +1,3689 @@
+{
+    "data": [
+        {
+            "mountain": "Hirshlam",
+            "name": "The First Turns",
+            "b": "40.00",
+            "s": "35.00",
+            "g": "33.00",
+            "dd": "30.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "The Little Adventure",
+            "b": "36.00",
+            "s": "32.00",
+            "g": "30.00",
+            "dd": "29.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "The Offpist Trail",
+            "b": "50.00",
+            "s": "41.00",
+            "g": "38.00",
+            "dd": "36.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "The Winding Road",
+            "b": "52.00",
+            "s": "45.00",
+            "g": "43.00",
+            "dd": "42.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "Over The Fence",
+            "b": "70",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "The Shortcut",
+            "b": "70",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "Jumping The Cracks",
+            "b": "70",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "Sightseeing Tour",
+            "b": "70",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "Hirschpeak Voyage",
+            "b": "55",
+            "s": "48.00",
+            "g": "42.00",
+            "dd": "40.00",
+            "td": "",
+            "type": "Top To Bottom"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "Hirschalm Show Off",
+            "b": "45",
+            "s": "41.00",
+            "g": "39.00",
+            "dd": "--",
+            "td": "",
+            "type": "Top To Bottom"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "The Glacier Kicker",
+            "b": "30.0M",
+            "s": "35.0M",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Long Jump"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "Hirschalm Freeride",
+            "b": "2000",
+            "s": "3500",
+            "g": "6000",
+            "dd": "12000",
+            "td": "",
+            "type": "Gated Trick"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "Glacier Park",
+            "b": "1000",
+            "s": "2000",
+            "g": "3500",
+            "dd": "5000",
+            "td": "",
+            "type": "Open Trick"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "Using The Powder Kicker",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "The Scenic Point",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "On The Ledge",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "Beyond The Anchor",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "The Mighty Air",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "The Cloudbuster",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "The Pitfall",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "The Forest Surprise",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "Must Jump",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "Heavy Traversing",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "The Explorer",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "Schnitzel Restaurant",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "The Irresponsible Act",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "The Water Slide",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "Speed Bombing",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "The Transition",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "Hirshlam",
+            "name": "The Courage",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "The Woodland Slalom",
+            "b": "29.00",
+            "s": "27.00",
+            "g": "26.00",
+            "dd": "25.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "The Woodland Track",
+            "b": "27.00",
+            "s": "25.00",
+            "g": "24.00",
+            "dd": "22.20",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "Gemsgully Whites",
+            "b": "41.00",
+            "s": "36.00",
+            "g": "34.00",
+            "dd": "32.20",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "Peak To Valley Run",
+            "b": "63.00",
+            "s": "56.00",
+            "g": "54.50",
+            "dd": "53.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "Selme Narrows",
+            "b": "45.00",
+            "s": "42.00",
+            "g": "40.50",
+            "dd": "39.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "The Siriside Slalom",
+            "b": "17.00",
+            "s": "16.00",
+            "g": "15.00",
+            "dd": "14.60",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "Selme Valley Race",
+            "b": "63.00",
+            "s": "58.00",
+            "g": "55.00",
+            "dd": "53.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "The Swing Passage",
+            "b": "27.00",
+            "s": "24.00",
+            "g": "21.00",
+            "dd": "18.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "Over The Pist",
+            "b": "70",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "Woodland Deep Trail",
+            "b": "70",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "The Crowd Pleaser",
+            "b": "70",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "The Three Trees",
+            "b": "70",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "The Big Kicker",
+            "b": "70",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "Little Drops",
+            "b": "70",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "A Balancing Act",
+            "b": "70",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "The Fatal Drops",
+            "b": "70",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "Waldhorn Voyage",
+            "b": "80.00",
+            "s": "75.00",
+            "g": "70.00",
+            "dd": "68.00",
+            "td": "",
+            "type": "Top To Bottom"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "Rigid Jumps",
+            "b": "30.0",
+            "s": "38.0",
+            "g": "41.0",
+            "dd": "44.0",
+            "td": "",
+            "type": "Triple Drop"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "The Waldhorn Falls",
+            "b": "65.0",
+            "s": "73.0",
+            "g": "78.0",
+            "dd": "83.0",
+            "td": "",
+            "type": "Triple Drop"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "Waldhorn Slopestyle",
+            "b": "4000",
+            "s": "5000",
+            "g": "7000",
+            "dd": "10000",
+            "td": "",
+            "type": "Gated Trick"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "The Fork",
+            "b": "225.0",
+            "s": "250.0",
+            "g": "275.0",
+            "dd": "295.0",
+            "td": "",
+            "type": "Long Distance"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "Ski Pass In the Forest",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "A Hole In The Wall",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "Ski Pass By The Grumpy Man House",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "Up The Hill",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "The Shelter",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "Mastering The Long Rails",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "Hit And Run",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "Waldtal Village Ski Pass",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "The Long Detour",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "Above The Canopy",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "Jump The Fence",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "Peak Drop",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "The Valley Transition",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "A Leap Of Faith",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "The Ridge Reward",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "Look Out For Trains",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Waldtal",
+            "name": "The Gold Rush",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "The Elements",
+            "b": "32.00",
+            "s": "30.00",
+            "g": "29.00",
+            "dd": "28.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "The Perfect Turns",
+            "b": "18.00",
+            "s": "16.50",
+            "g": "15.50",
+            "dd": "14.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "The Path Finder",
+            "b": "39.00",
+            "s": "37.00",
+            "g": "35.50",
+            "dd": "34.79",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "Super G",
+            "b": "42.00",
+            "s": "40.00",
+            "g": "38.50",
+            "dd": "37.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "Ellnau Shoulder Track",
+            "b": "42.00",
+            "s": "40.00",
+            "g": "38.00",
+            "dd": "36.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "Swivel Loop",
+            "b": "18.00",
+            "s": "16.00",
+            "g": "14.00",
+            "dd": "11.80",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "Pristine Rush",
+            "b": "30.00",
+            "s": "28.00",
+            "g": "26.50",
+            "dd": "25.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "Clover Road Trail",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "Ellnau River Rush",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "Across The Clover Ridge",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "The Pillow Pass",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "Forest Excursion",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "The Boulder Valley Pass",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "High Jump",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "Around Clover Falls",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "Elnakka West",
+            "b": "200.00 --> 36.00",
+            "s": "32.00",
+            "g": "30.00",
+            "dd": "--",
+            "td": "",
+            "type": "Top To Bottom"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "Bear Cub Run",
+            "b": "5",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Slap"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "The Pist Bully",
+            "b": "10",
+            "s": "16",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Slap"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "The Yards",
+            "b": "30.0",
+            "s": "35.0",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Long Jump"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "Overshooting",
+            "b": "35.0",
+            "s": "40.0",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Single Drop"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "The Road Gaps",
+            "b": "50.0",
+            "s": "70.0",
+            "g": "90.0",
+            "dd": "95.0",
+            "td": "",
+            "type": "Triple Drop"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "The Boulder Hill Descent",
+            "b": "3000",
+            "s": "6000",
+            "g": "9000",
+            "dd": "12000",
+            "td": "",
+            "type": "Gated Trick"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "XL Park World",
+            "b": "4000",
+            "s": "7000",
+            "g": "9500",
+            "dd": "14000",
+            "td": "",
+            "type": "Gated Trick"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "Terve Jumping",
+            "b": "4000",
+            "s": "6000",
+            "g": "8000",
+            "dd": "16000",
+            "td": "",
+            "type": "Gated Trick"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "Elnakka Freedom",
+            "b": "5000",
+            "s": "7000",
+            "g": "8000",
+            "dd": "10000",
+            "td": "",
+            "type": "Open Trick"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "Boulder Hill Escape",
+            "b": "200.0",
+            "s": "210.0",
+            "g": "220.0",
+            "dd": "240.0",
+            "td": "",
+            "type": "Long Distance"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "The Mayor's Ski Pass",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "The Santa",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "The Marshmallow Shelf",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "The Boulder Secret",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "The Persistence",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "Below The Step Up",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "Clover Ridge Drop",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "The Natural Jump",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "The Odyssey",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "Boulder Pass Price",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "The Trunk Tour",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "Close To Home",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "Oedipus",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "Sisu",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "City Hopping",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "The Snake Rail",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "The Ice Channel",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "The Sketchy Transfer",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "Elnakka",
+            "name": "The Snake Run",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "The Dala Horse Trail",
+            "b": "35.00",
+            "s": "31.00",
+            "g": "29.00",
+            "dd": "27.60",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "Skogsloppet",
+            "b": "46.00",
+            "s": "43.00",
+            "g": "41.00",
+            "dd": "39.20",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "Malung Scooter Club",
+            "b": "45.00",
+            "s": "42.00",
+            "g": "40.50",
+            "dd": "39.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "Follow The Trails Of Wasa",
+            "b": "36.00",
+            "s": "34.00",
+            "g": "32.00",
+            "dd": "30.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "Zick Zack The Lift",
+            "b": "40.00",
+            "s": "34.50",
+            "g": "33.00",
+            "dd": "32.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "Follow The Tracks",
+            "b": "40.00",
+            "s": "38.00",
+            "g": "36.00",
+            "dd": "35.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "The Clearcut",
+            "b": "37.00",
+            "s": "35.00",
+            "g": "33.00",
+            "dd": "32.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "Mora Barnyards",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "Leksand Rail",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "Thru Alvdalen",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "Drifting The Frozen Lake",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "Dalarna Voyage",
+            "b": "200.00 --> 54.00",
+            "s": "50.00",
+            "g": "47.00 -> 47.50",
+            "dd": "--",
+            "td": "",
+            "type": "Top To Bottom"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "Sarnaheden Sightseeing",
+            "b": "75.00",
+            "s": "70.00",
+            "g": "58.00",
+            "dd": "50.00",
+            "td": "",
+            "type": "Top To Bottom"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "Mickeltemplet Loop",
+            "b": "50.0",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Rail"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "Ski Jumping",
+            "b": "33.0",
+            "s": "38.0",
+            "g": "40.0",
+            "dd": "--",
+            "td": "",
+            "type": "Long Jump"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "Fulu Air",
+            "b": "2000",
+            "s": "4000",
+            "g": "5000",
+            "dd": "--",
+            "td": "",
+            "type": "Single Trick"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "Orsa Animal Park",
+            "b": "5000",
+            "s": "7200",
+            "g": "8000",
+            "dd": "11000",
+            "td": "",
+            "type": "Gated Trick"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "Ice Slalom Trail",
+            "b": "300",
+            "s": "1000",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Gated Trick?"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "Ghost Of Wasa",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "Romantic Ice Lake",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "Parkway To Church",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "Village Jump",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "Tree To Lift",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "Bush Digging",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "Ring Of Wasa",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "River Pass",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "The Glade High Above",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "Fence Jump",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "Roady Jumper",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "Dalarna",
+            "name": "Back From The Windmill",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {},
+        {
+            "mountain": "",
+            "name": "Rotkamm (69+11) (16+8+11+5)"
+        },
+        {
+            "mountain": "",
+            "name": "The Village Run",
+            "b": "34.00",
+            "s": "33.00",
+            "g": "32.00",
+            "dd": "30.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "The Broken Trail",
+            "b": "50.00",
+            "s": "45.00",
+            "g": "43.50",
+            "dd": "42.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "The Green Glades",
+            "b": "21.00",
+            "s": "20.00",
+            "g": "18.50",
+            "dd": "17.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "The River Jumps",
+            "b": "49.00",
+            "s": "47.00",
+            "g": "45.00",
+            "dd": "43.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "The Ice Bowl",
+            "b": "36.00",
+            "s": "33.00",
+            "g": "31.50",
+            "dd": "30.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "The Pockets",
+            "b": "50.00",
+            "s": "47.00",
+            "g": "46.00",
+            "dd": "45.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "The Rollercoaster",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Skipping Icebergs",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Gross Air",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Sketchy Bears",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Slippery Slope",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Precision Drops",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Dropping In",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Staying Between The Stones",
+            "b": "30.00",
+            "s": "28.00",
+            "g": "27.00",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "The Ice Slope",
+            "b": "200.00 --> 29.00",
+            "s": "26.00",
+            "g": "23.50",
+            "dd": "--",
+            "td": "",
+            "type": "Top To Bottom"
+        },
+        {
+            "mountain": "",
+            "name": "Progressive Speed",
+            "b": "49.00",
+            "s": "45.00",
+            "g": "41.00",
+            "dd": "--",
+            "td": "",
+            "type": "Top To Bottom"
+        },
+        {
+            "mountain": "",
+            "name": "On The Fence",
+            "b": "70.00",
+            "s": "80.00",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Rail"
+        },
+        {
+            "mountain": "",
+            "name": "Corner Flight",
+            "b": "3.00",
+            "s": "4.00",
+            "g": "4.50",
+            "dd": "--",
+            "td": "",
+            "type": "Airtime"
+        },
+        {
+            "mountain": "",
+            "name": "The Descender",
+            "b": "70.0",
+            "s": "80.0",
+            "g": "85.0",
+            "dd": "90.0",
+            "td": "",
+            "type": "Triple Drop"
+        },
+        {
+            "mountain": "",
+            "name": "Rotkamm Jumper",
+            "b": "4000",
+            "s": "6000",
+            "g": "8000",
+            "dd": "11000",
+            "td": "",
+            "type": "Gated Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Rotkamm Style I",
+            "b": "6000",
+            "s": "9000",
+            "g": "11000",
+            "dd": "14000",
+            "td": "",
+            "type": "Gated Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Sending It",
+            "b": "5000",
+            "s": "7000",
+            "g": "9000",
+            "dd": "11000",
+            "td": "",
+            "type": "Open Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Freeride Heaven",
+            "b": "6000",
+            "s": "8000",
+            "g": "9500",
+            "dd": "13500",
+            "td": "",
+            "type": "Open Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Pilgrim Run",
+            "b": "250.0",
+            "s": "265.0",
+            "g": "280.0",
+            "dd": "310.0",
+            "td": "",
+            "type": "Long Distance"
+        },
+        {
+            "mountain": "",
+            "name": "Dangerous Train",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Secret Jump",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Skipass By The Creek",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Iceberg Trophy",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Luminous Lucile",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Slow Dropping",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Cliffy",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Ice Speed",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Ice Pond pass",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Seaside Hotel",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Noodler Peak",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Down The Ice",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "",
+            "name": "Little Ravine",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "",
+            "name": "As Steep As It Gets",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "",
+            "name": "Thru The Avalanche Protectors",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "",
+            "name": "Big Bowl",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {},
+        {
+            "mountain": "",
+            "name": "Saint Luvette (89+15) (14+12+21+4)"
+        },
+        {
+            "mountain": "",
+            "name": "Tour De Moyen",
+            "b": "28.00",
+            "s": "26.00",
+            "g": "25.00",
+            "dd": "24.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Pic Moyen",
+            "b": "45.50",
+            "s": "43.50",
+            "g": "42.50",
+            "dd": "41.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Plus Choix",
+            "b": "32.00",
+            "s": "30.00",
+            "g": "28.00",
+            "dd": "27.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Le Probleme",
+            "b": "17.00",
+            "s": "16.70",
+            "g": "16.29",
+            "dd": "15.80",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Rapide",
+            "b": "16.50",
+            "s": "15.70",
+            "g": "15.00",
+            "dd": "14.60",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Pointe De Serpentine",
+            "b": "35.00",
+            "s": "34.00",
+            "g": "33.00",
+            "dd": "32.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Les Ruins",
+            "b": "29.00",
+            "s": "27.50",
+            "g": "26.00",
+            "dd": "25.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Saut De Pic",
+            "b": "20.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "The Traverse",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Pisten Bully Dangeroux",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Le Coq",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Route Extreme",
+            "b": "50.00",
+            "s": "49.00",
+            "g": "48.00",
+            "dd": "46.00",
+            "td": "",
+            "type": "Top To Bottom"
+        },
+        {
+            "mountain": "",
+            "name": "Full Luvette",
+            "b": "62.00 --> ??",
+            "s": "58.00 --> 62.00",
+            "g": "54.00 --> 59.00",
+            "dd": "56.00",
+            "td": "",
+            "type": "Top To Bottom"
+        },
+        {
+            "mountain": "",
+            "name": "Route Colline",
+            "b": "75.00",
+            "s": "67.00",
+            "g": "60.00",
+            "dd": "54.00",
+            "td": "",
+            "type": "Top To Bottom"
+        },
+        {
+            "mountain": "",
+            "name": "Le Serpent",
+            "b": "50.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Rail"
+        },
+        {
+            "mountain": "",
+            "name": "Baton Rouge",
+            "b": "6",
+            "s": "8",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Slap"
+        },
+        {
+            "mountain": "",
+            "name": "Aire Maximus",
+            "b": "4.00",
+            "s": "4.60",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Airtime"
+        },
+        {
+            "mountain": "",
+            "name": "Quel Vol",
+            "b": "4.00",
+            "s": "5.30",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Airtime"
+        },
+        {
+            "mountain": "",
+            "name": "Les Troix Drop",
+            "b": "50.0",
+            "s": "60.0",
+            "g": "70.0",
+            "dd": "80.0",
+            "td": "",
+            "type": "Triple Drop"
+        },
+        {
+            "mountain": "",
+            "name": "Le Cygne",
+            "b": "3000",
+            "s": "7000",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Single Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Roi De La Ville",
+            "b": "3000",
+            "s": "4000",
+            "g": "6000",
+            "dd": "--",
+            "td": "",
+            "type": "Single Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Le Crazy Jump",
+            "b": "3500",
+            "s": "5000",
+            "g": "7000",
+            "dd": "--",
+            "td": "",
+            "type": "Single Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Trix De Ville",
+            "b": "8000",
+            "s": "10000",
+            "g": "14000 --> 12500",
+            "dd": "20k -> 14k -> 18k -> 17k",
+            "td": "",
+            "type": "Gated Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Saut Bizarre",
+            "b": "3000",
+            "s": "4000",
+            "g": "5500",
+            "dd": "7000",
+            "td": "",
+            "type": "Gated Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Le Pipe",
+            "b": "6000",
+            "s": "10000",
+            "g": "13000",
+            "dd": "16000",
+            "td": "",
+            "type": "Open Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Un Chapeau Courageux",
+            "b": "200.0",
+            "s": "230.0",
+            "g": "240.0",
+            "dd": "250.0",
+            "td": "",
+            "type": "Long Distance"
+        },
+        {
+            "mountain": "",
+            "name": "Le Gap",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Le Easy Star",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Waxton",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Oh La La",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Roof Gap",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Coucou",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Peekaboo",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Le Couronne",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Leaning Tree",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Deer Oh Deer",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Le Bord",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Random Pipe",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Le Que",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "En Haut",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Le Target",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Le Gaah",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "En Haut -> Petit Haut",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Spine",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Le Papillon",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Link",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Le Cage",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Slip Not",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "",
+            "name": "Le Shiny Tube",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "",
+            "name": "Les Etoiles",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "",
+            "name": "Viva",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {},
+        {
+            "mountain": "",
+            "name": "Passo Grolla (110+23) (26+12+16+3)"
+        },
+        {
+            "mountain": "",
+            "name": "Loggers Groove",
+            "b": "15.00",
+            "s": "13.80",
+            "g": "13.00",
+            "dd": "12.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Twisty Rosso",
+            "b": "31.00",
+            "s": "30.00",
+            "g": "29.00",
+            "dd": "28.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "The Wanderer",
+            "b": "25.00",
+            "s": "20.00",
+            "g": "17.00",
+            "dd": "--",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "La Bomba",
+            "b": "12.00",
+            "s": "11.00",
+            "g": "10.40",
+            "dd": "9.90",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Shards",
+            "b": "38.00",
+            "s": "36.00",
+            "g": "34.00",
+            "dd": "33.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Glacier Skipping",
+            "b": "55.00",
+            "s": "53.00",
+            "g": "51.50",
+            "dd": "50.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Peak Avalanche Escape",
+            "b": "42.00",
+            "s": "40.00",
+            "g": "39.00",
+            "dd": "38.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Maniaco",
+            "b": "25.00",
+            "s": "23.00",
+            "g": "21.50",
+            "dd": "21.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Tombola",
+            "b": "26.00",
+            "s": "24.00",
+            "g": "22.00",
+            "dd": "21.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "The Icy Slide",
+            "b": "25.00",
+            "s": "23.00",
+            "g": "21.50",
+            "dd": "20.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Presto",
+            "b": "24.00 ---> 25.00",
+            "s": "23.5 ---> 24.00",
+            "g": "22.50 ---> 23.00",
+            "dd": "22.00 ---> 22.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "The Bowls",
+            "b": "34.00",
+            "s": "31.50",
+            "g": "30.50",
+            "dd": "30.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Tutti Frutti",
+            "b": "18.00",
+            "s": "16.50",
+            "g": "15.00",
+            "dd": "14.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "La Transitions",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Il Creativo",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Skipping Ice Bergs",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Rockefeller",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Drop Della Morte",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Elasto Mania Uno",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Elasto Mania Due",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Carosello Uno",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Carosello Due",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Carosello Tre",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Lupollo",
+            "b": "45.00 --> ??",
+            "s": "35.00 --> ??",
+            "g": "??",
+            "dd": "??",
+            "td": "",
+            "type": "Top To Bottom"
+        },
+        {
+            "mountain": "",
+            "name": "The Forever Run",
+            "b": "62.00",
+            "s": "57.00",
+            "g": "53.00",
+            "dd": "--",
+            "td": "",
+            "type": "Top To Bottom"
+        },
+        {
+            "mountain": "",
+            "name": "Autostrada",
+            "b": "40.00",
+            "s": "35.00",
+            "g": "31.00",
+            "dd": "28.00",
+            "td": "",
+            "type": "Top To Bottom"
+        },
+        {
+            "mountain": "",
+            "name": "Raillante",
+            "b": "3.0",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Rail"
+        },
+        {
+            "mountain": "",
+            "name": "Ruby Con Aria",
+            "b": "3.00",
+            "s": "5.00",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Airtime"
+        },
+        {
+            "mountain": "",
+            "name": "Caso Della Stella",
+            "b": "45.00",
+            "s": "55.00",
+            "g": "65.00",
+            "dd": "--",
+            "td": "",
+            "type": "Single Drop"
+        },
+        {
+            "mountain": "",
+            "name": "Down",
+            "b": "75.0",
+            "s": "90.0",
+            "g": "105.0",
+            "dd": "120.0",
+            "td": "",
+            "type": "Triple Drop"
+        },
+        {
+            "mountain": "",
+            "name": "Dropping",
+            "b": "100.0",
+            "s": "125.0",
+            "g": "150.0",
+            "dd": "175.0",
+            "td": "",
+            "type": "Triple Drop"
+        },
+        {
+            "mountain": "",
+            "name": "Red Lumber Flow",
+            "b": "5000",
+            "s": "6500",
+            "g": "8500",
+            "dd": "11000",
+            "td": "",
+            "type": "Gated Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Scoiatollo",
+            "b": "3000",
+            "s": "4000",
+            "g": "6000",
+            "dd": "8000",
+            "td": "",
+            "type": "Gated Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Il Fenomeno",
+            "b": "7000",
+            "s": "8500",
+            "g": "10000",
+            "dd": "13000",
+            "td": "",
+            "type": "Gated Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Red Forest Jumps",
+            "b": "4500",
+            "s": "7000",
+            "g": "9000",
+            "dd": "11000",
+            "td": "",
+            "type": "Open Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Offpiste Paradise",
+            "b": "6000",
+            "s": "9000",
+            "g": "12000",
+            "dd": "17000",
+            "td": "",
+            "type": "Open Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Gems Ride",
+            "b": "6000",
+            "s": "8000",
+            "g": "10000",
+            "dd": "14000",
+            "td": "",
+            "type": "Open Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Il Stupido",
+            "b": "175.0",
+            "s": "225.0",
+            "g": "240.0",
+            "dd": "260.0",
+            "td": "",
+            "type": "Long Distance"
+        },
+        {
+            "mountain": "",
+            "name": "Move On Up",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Lost Grounds",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Lulubun",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Supernatural",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Lost Skiers",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Shiny Crevasse",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Impossible Sven",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "La Luna",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Pillars",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Ice Launcher",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Tricky Corner",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "A Happy Surprise",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Troppo Difficile",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "La Finezza",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Zorro",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Refugio",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Magia",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "",
+            "name": "Roskamm",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "",
+            "name": "Rings Di Obscura",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {},
+        {
+            "mountain": "",
+            "name": "Ben Ailig (94+19) (22+8+21+4)"
+        },
+        {
+            "mountain": "",
+            "name": "Flower Race",
+            "b": "29.00",
+            "s": "27.50",
+            "g": "26.00",
+            "dd": "24.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "The Swindler",
+            "b": "31.00",
+            "s": "29.50",
+            "g": "28.50",
+            "dd": "27.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Rangers Ground",
+            "b": "24.00",
+            "s": "20.50",
+            "g": "20.00",
+            "dd": "19.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Rangers Clais",
+            "b": "30.00",
+            "s": "28.00",
+            "g": "27.00",
+            "dd": "26.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Ailigs Turn",
+            "b": "24.00",
+            "s": "22.79",
+            "g": "22.20",
+            "dd": "21.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Rocket Rails",
+            "b": "28.00 ---> 31.00",
+            "s": "26.00 ---> 29.00",
+            "g": "25.00 -> 27.50 -> 27.00",
+            "dd": "24.00 -> 26.50 -> 24.50 -> 25.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "The Feather Turns",
+            "b": "40.00",
+            "s": "37.00",
+            "g": "36.50",
+            "dd": "35.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Straight Lining",
+            "b": "7.90",
+            "s": "7.60",
+            "g": "7.40",
+            "dd": "7.20 --> 7.25 --> 7.30",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Downhill Void",
+            "b": "28.00",
+            "s": "26.00",
+            "g": "24.00",
+            "dd": "22.79",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Downhill Skirmish",
+            "b": "27.00",
+            "s": "25.50",
+            "g": "24.20",
+            "dd": "22.79",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Donn Meall Trials",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Clais Each",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "The Water Slide",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Raiders Run",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "The Doon Whiteout",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "The Grasshopper",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "The Switch",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "The Stripes",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "The Fearless",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "The Chase",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "The Freedom Run",
+            "b": "60.00",
+            "s": "55.00",
+            "g": "52.00",
+            "dd": "50.50",
+            "td": "",
+            "type": "Top To Bottom"
+        },
+        {
+            "mountain": "",
+            "name": "Aileigs Adventure",
+            "b": "75.00",
+            "s": "65.00",
+            "g": "62.00",
+            "dd": "60.00 -> 61.00",
+            "td": "",
+            "type": "Top To Bottom"
+        },
+        {
+            "mountain": "",
+            "name": "Sweeping Drops",
+            "b": "50.0",
+            "s": "55.0",
+            "g": "65.0",
+            "dd": "70.0",
+            "td": "",
+            "type": "Triple Drop"
+        },
+        {
+            "mountain": "",
+            "name": "The Overshooter",
+            "b": "4000",
+            "s": "5500",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Single Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Hogback Attack",
+            "b": "5000",
+            "s": "7000",
+            "g": "10000",
+            "dd": "14000",
+            "td": "",
+            "type": "Gated Trick"
+        },
+        {
+            "mountain": "",
+            "name": "MacAskill",
+            "b": "4000",
+            "s": "6000",
+            "g": "14000",
+            "dd": "80000",
+            "td": "",
+            "type": "Gated Trick"
+        },
+        {
+            "mountain": "",
+            "name": "The Delucia Transfers",
+            "b": "5000",
+            "s": "7000",
+            "g": "8000",
+            "dd": "11000",
+            "td": "",
+            "type": "Open Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Boyne Trickster",
+            "b": "7000",
+            "s": "9000",
+            "g": "10000",
+            "dd": "14000",
+            "td": "",
+            "type": "Open Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Meall Lines",
+            "b": "6000",
+            "s": "7000",
+            "g": "9000",
+            "dd": "12000",
+            "td": "",
+            "type": "Open Trick"
+        },
+        {
+            "mountain": "",
+            "name": "The Meall Exit",
+            "b": "200.0",
+            "s": "225.0",
+            "g": "250.0",
+            "dd": "275.0",
+            "td": "",
+            "type": "Long Distance"
+        },
+        {
+            "mountain": "",
+            "name": "The Chuchu Pass",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Crown",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Wannabe Island",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Doon Fairy",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Enviable",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Badger",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Dropped Pass",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Loch Hoppin",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Flying Pass",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Tight Track",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Sketchy Inrun",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Trouble Bubble",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Outrageous Drop",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Aileigs Trophe",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Old Gnarr",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Ranger's Pearl",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Distraction Faction",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Edge",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Sour Dough",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Meow",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Spirit of MacDonald",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Canyon Transition",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "",
+            "name": "The Spooky Grind",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "",
+            "name": "The Rock Charge",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "",
+            "name": "Bruach Gap Line",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {},
+        {
+            "mountain": "",
+            "name": "Mount Fairview (69+16) (12+11+10+2)"
+        },
+        {
+            "mountain": "",
+            "name": "Grand Mountain Cup I",
+            "b": "20.00",
+            "s": "19.50",
+            "g": "19.00",
+            "dd": "18.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Grand Mountain Cup II",
+            "b": "40.00",
+            "s": "35.00",
+            "g": "34.50",
+            "dd": "33.70",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Grand Mountain Cup III",
+            "b": "70.00",
+            "s": "65.00",
+            "g": "63.50",
+            "dd": "62.29",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Beaver Creek Dance",
+            "b": "9.6 -> 31.00",
+            "s": "8.5 -> 29.50",
+            "g": "7.6 -> 28.50",
+            "dd": "27.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "The Silver Dragon",
+            "b": "17.00",
+            "s": "16.00",
+            "g": "15.80",
+            "dd": "15.50 --> 15.60",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Fairview Cloud Line",
+            "b": "29.00 -> 31.00",
+            "s": "28.00 -> 29.50",
+            "g": "27.60 -> 28.00",
+            "dd": "27.20",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Peregrine Falcon",
+            "b": "24.00",
+            "s": "22.00",
+            "g": "20.00",
+            "dd": "19.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Shadows Trail",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "The Woodpecker Trail",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "The Buried Path",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Serenade Summit Race",
+            "b": "52.00",
+            "s": "49.50",
+            "g": "48.50",
+            "dd": "47.50",
+            "td": "",
+            "type": "Top To Bottom"
+        },
+        {
+            "mountain": "",
+            "name": "Spinel Crest Race",
+            "b": "60.00",
+            "s": "54.00",
+            "g": "53.00",
+            "dd": "50.00",
+            "td": "",
+            "type": "Top To Bottom"
+        },
+        {
+            "mountain": "",
+            "name": "Fence Friends",
+            "b": "50.0",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Rail"
+        },
+        {
+            "mountain": "",
+            "name": "Flutters",
+            "b": "3.00",
+            "s": "4.20",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Airtime"
+        },
+        {
+            "mountain": "",
+            "name": "The Timber Road Gap",
+            "b": "30.0",
+            "s": "35.0",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Single Drop"
+        },
+        {
+            "mountain": "",
+            "name": "Shoot Out",
+            "b": "50.0",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Single Drop"
+        },
+        {
+            "mountain": "",
+            "name": "The Three Diamonds",
+            "b": "80.0",
+            "s": "90.0",
+            "g": "95.0",
+            "dd": "100.0",
+            "td": "",
+            "type": "Triple Drop"
+        },
+        {
+            "mountain": "",
+            "name": "Ollies Invite Only",
+            "b": "14000 -> 12000",
+            "s": "17000 -> 14000",
+            "g": "19000 -> 17000",
+            "dd": "22000",
+            "td": "",
+            "type": "Gated Trick"
+        },
+        {
+            "mountain": "",
+            "name": "The Sidehit Road",
+            "b": "8000",
+            "s": "10000",
+            "g": "11000",
+            "dd": "13000",
+            "td": "",
+            "type": "Gated Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Best Eagle Cookie Park",
+            "b": "6000",
+            "s": "8500",
+            "g": "10000",
+            "dd": "12500",
+            "td": "",
+            "type": "Gated Trick"
+        },
+        {
+            "mountain": "",
+            "name": "The Woodland Jam",
+            "b": "12000",
+            "s": "15000",
+            "g": "17000",
+            "dd": "20000",
+            "td": "",
+            "type": "Open Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Booster Berries",
+            "b": "8000",
+            "s": "10000",
+            "g": "12000",
+            "dd": "15000",
+            "td": "",
+            "type": "Open Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Freeride Scout",
+            "b": "4000",
+            "s": "6500",
+            "g": "8000",
+            "dd": "12000",
+            "td": "",
+            "type": "Open Trick"
+        },
+        {
+            "mountain": "",
+            "name": "The Gage Tower Pass",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Beaver Pass",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Log Log Pass",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Best Bison Pass",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Ensembles Hat",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Flat Landing",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Christmas Star",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The River Slide",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Fairview Village Pass",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Hitching A Ride",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Spirit's Glide",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "",
+            "name": "The Beaver's Trail",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {},
+        {
+            "mountain": "",
+            "name": "Pinecone Peaks (108+24) (24+15+14+4)"
+        },
+        {
+            "mountain": "",
+            "name": "City Woods",
+            "b": "18.00",
+            "s": "16.79",
+            "g": "16.40",
+            "dd": "15.80",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Pinecone Passage",
+            "b": "36.00 -> 37.00",
+            "s": "33.00 -> 35.00",
+            "g": "32.50",
+            "dd": "32.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Velocity",
+            "b": "26.00 -> 27.50",
+            "s": "25.50 -> 26.00",
+            "g": "25.00",
+            "dd": "24.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Treasure The Shortcuts",
+            "b": "27.00 -> 28.00",
+            "s": "25.50 -> 26.00",
+            "g": "24.50",
+            "dd": "23.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Weary Mood",
+            "b": "26.00",
+            "s": "23.50 -> 24.50",
+            "g": "22.50",
+            "dd": "22.20",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Rough Patches",
+            "b": "26.00 -> 26.50",
+            "s": "24.50",
+            "g": "23.50",
+            "dd": "23.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "The Labyrinth",
+            "b": "25.00 -> 25.50",
+            "s": "22.50 -> 23.50",
+            "g": "21.50",
+            "dd": "20.79",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Hazy Maze",
+            "b": "22.00 -> 24.00",
+            "s": "21.00 -> 22.00",
+            "g": "20.00 -> 20.50",
+            "dd": "19.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Googly Eyes",
+            "b": "24.00 -> 25.00",
+            "s": "22.00 -> 23.00",
+            "g": "21.00",
+            "dd": "18.50 --> 18.60",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "The Execution",
+            "b": "27.00",
+            "s": "25.00",
+            "g": "24.00",
+            "dd": "23.20",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Offpist Mayhem",
+            "b": "44.00 -> 47.00",
+            "s": "42.50 -> 44.50",
+            "g": "42.00",
+            "dd": "40.50",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Mound Racing",
+            "b": "43.00",
+            "s": "39.00",
+            "g": "36.50",
+            "dd": "34.00",
+            "td": "",
+            "type": "Race"
+        },
+        {
+            "mountain": "",
+            "name": "Coffee Kick",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Side Piste",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Ridge Run",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Level 1",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Level 2",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Level 3",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Popsicle Slide",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Popsicle Challenge",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "The Little Skipper",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Tic Tac Toe",
+            "b": "70.00",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Trail"
+        },
+        {
+            "mountain": "",
+            "name": "Make Haste",
+            "b": "60.00 --> 100.00",
+            "s": "50.00 --> 92.00",
+            "g": "45.00 --> 82.00",
+            "dd": "42.00 --> 75.00",
+            "td": "",
+            "type": "Top To Bottom"
+        },
+        {
+            "mountain": "",
+            "name": "Pinecone Force",
+            "b": "50.00 -> ???",
+            "s": "45.00 -> ???",
+            "g": "40.00 -> ???",
+            "dd": "55.50",
+            "td": "",
+            "type": "Top To Bottom?"
+        },
+        {
+            "mountain": "",
+            "name": "Metro Rails",
+            "b": "50.0",
+            "s": "75.0",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Rail"
+        },
+        {
+            "mountain": "",
+            "name": "Desolate Drops",
+            "b": "3.70",
+            "s": "4.30",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Airtime"
+        },
+        {
+            "mountain": "",
+            "name": "Pinecone Dropper",
+            "b": "3.80",
+            "s": "4.50",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Airtime"
+        },
+        {
+            "mountain": "",
+            "name": "Send It Dropping",
+            "b": "50.0 --> 40.0",
+            "s": "62.5 --> 50.0",
+            "g": "75.0 --> 60.0",
+            "dd": "100.0 --> 75.0",
+            "td": "",
+            "type": "Triple Drop"
+        },
+        {
+            "mountain": "",
+            "name": "Flight Of The Labyrinth",
+            "b": "40.0",
+            "s": "45.0",
+            "g": "50.0",
+            "dd": "60.0",
+            "td": "",
+            "type": "Triple Drop"
+        },
+        {
+            "mountain": "",
+            "name": "Cone Drops",
+            "b": "50.0",
+            "s": "70.0",
+            "g": "90.0",
+            "dd": "110.0",
+            "td": "",
+            "type": "Triple Drop"
+        },
+        {
+            "mountain": "",
+            "name": "Gap Of Ages",
+            "b": "3000.0 -> 60.0",
+            "s": "3750.0 -> 75.0",
+            "g": "4500.0 -> 90.0",
+            "dd": "110.0",
+            "td": "",
+            "type": "Triple Drop"
+        },
+        {
+            "mountain": "",
+            "name": "One Trick Pony",
+            "b": "6000 -> 4500",
+            "s": "9000 -> 7500",
+            "g": "--",
+            "dd": "--",
+            "td": "",
+            "type": "Single Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Rail Jam",
+            "b": "9000 -> 7000",
+            "s": "11000 -> 10000",
+            "g": "13000 -> 12500",
+            "dd": "18000",
+            "td": "",
+            "type": "Gated Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Pinecone Jibber",
+            "b": "10000",
+            "s": "12000 -> 14000",
+            "g": "14000 -> 18000",
+            "dd": "70000 -> 20000",
+            "td": "",
+            "type": "Open Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Send It Tricky",
+            "b": "5000",
+            "s": "7000",
+            "g": "9000",
+            "dd": "11000",
+            "td": "",
+            "type": "Open Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Multiple Park",
+            "b": "12000 -> 8000",
+            "s": "15500 -> 11000",
+            "g": "18000 -> 16000",
+            "dd": "21000",
+            "td": "",
+            "type": "Open Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Desolate Hills Natural",
+            "b": "10000 -> 8000",
+            "s": "12000 -> 10000",
+            "g": "14000",
+            "dd": "20000",
+            "td": "",
+            "type": "Open Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Pine Trickster",
+            "b": "10000 -> 7500",
+            "s": "12500 -> 10000",
+            "g": "15000 -> 14000",
+            "dd": "20000",
+            "td": "",
+            "type": "Open Trick"
+        },
+        {
+            "mountain": "",
+            "name": "Find Your Way",
+            "b": "190.0",
+            "s": "200.0",
+            "g": "230.0 -> 220.0",
+            "dd": "240.0",
+            "td": "",
+            "type": "Long Distance"
+        },
+        {
+            "mountain": "",
+            "name": "You Figured It Out",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Lovely View",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Clever Dude",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Park Pass",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Huddle Up",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Sauna",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Odd Jump",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Just A Glimpse",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Labyrinth Pass",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Giant Tree Pass",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Rock Steps",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "The Struggle",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "House Skipping",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "City Lights",
+            "type": "Exploration"
+        },
+        {
+            "mountain": "",
+            "name": "Cliff Rails",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "",
+            "name": "The Bumpy Ride",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "",
+            "name": "Precision Jumps",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        },
+        {
+            "mountain": "",
+            "name": "That One Ring",
+            "b": "--",
+            "s": "--",
+            "g": "--",
+            "dd": "--",
+            "td": "--",
+            "type": "Ring"
+        }
+    ]
+}
