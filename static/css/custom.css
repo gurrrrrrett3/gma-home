@@ -1,0 +1,35 @@
+.background {
+    
+    width: 105%;
+    height: auto;
+
+    display: block;
+    transform: translate(-50%, -50%);
+
+    top: 50%;
+    left: 50%;
+
+    position: fixed;
+
+    filter: blur(1px);
+    filter: brightness(0.75);
+
+    z-index: -100;
+}
+
+#trialBox {
+
+    position: fixed;
+
+    display: block;
+    transform: translate(-50%, -50%);
+
+    top: 10%;
+    left: 50%;
+
+    width: 25%;
+    height: auto;
+
+
+
+}
